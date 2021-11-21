@@ -1,16 +1,15 @@
-### Hi there 👋
+<div style="height: 10rem; background-image: url(pattern.svg); background-size: 30rem; margin-bottom: 2rem;"></div>
 
-<!--
-**carolgilabert/carolgilabert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋🏼
 
-Here are some ideas to get you started:
+My name is Carol, my pronouns are she/her, nice to meet you! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+
+👩🏼‍💻 Web engineer  
+🧑‍🤝‍🧑 Community organiser  
+🖼️ Amateur meme curator  
+
+## About me
+
+![A cow in the seashore looking at the sea, with the caption: I am cringe, but I am free](meme.jpeg)
