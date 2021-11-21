@@ -1,4 +1,4 @@
-<img src="pattern.svg" width="100%" />
+<img src="pattern.svg" width="100%" style="border-bottom: 3px solid black" />
 
 # Hi there 👋🏼
 
